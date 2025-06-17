@@ -1,0 +1,38 @@
+# Build directories
+Debug/
+Release/
+x64/
+*.obj
+*.pch
+*.pdb
+*.idb
+*.ilk
+*.log
+*.tlog/
+*.lastbuildstate
+
+# Visual Studio settings
+.vs/
+*.VC.db
+*.opendb
+*.suo
+*.user
+*.VC.opendb
+*.vcxproj.user
+
+# CMake or custom build tools (if any)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Other
+*.exe
+*.dll
+*.bak
+*.tmp
+
+# Optional: ignore compiled resource and shader output
+*.res
+*.ps
+*.vs
